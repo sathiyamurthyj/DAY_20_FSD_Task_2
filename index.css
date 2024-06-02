@@ -1,0 +1,12 @@
+body {
+    background-color:cadetblue;
+}
+
+#resultDiv li {
+    background-color:lightgoldenrodyellow;
+}
+
+h1 {
+    color: whitesmoke;
+    text-shadow: 2px 2px grey;
+}
